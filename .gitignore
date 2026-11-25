@@ -1,0 +1,23 @@
+# Build
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets : ne jamais pousser de clé ou de token
+.env
+*.env
+application-local.properties
+application-local.yml
+
+# Angular
+node_modules/
+dist/
+.angular/
