@@ -19,6 +19,7 @@
 
     <modules>
         <module>customer-service</module>
+        <module>ebank-service</module>
     </modules>
 
     <properties>
